@@ -1,0 +1,22 @@
+{
+  "name": "com.elzach.gamejamtools",
+  "displayName": "elZach GamejamTools",
+  "author": {
+    "name": "elZach",
+    "email": "dont@message.me",
+    "url": ""
+  },
+  "version": "0.0.1",
+  "unity": "2020.2",
+  "description": "Collection of neat little prototyping tools.",
+  "keywords": [
+    "Extension"
+  ],
+  "category": "Common",
+  "dependencies": {
+	"com.elzach.extensions": "0.0.5"
+  },
+  "relatedPackages": {
+  
+  }
+}
