@@ -18,5 +18,12 @@
   },
   "relatedPackages": {
   
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Title Menu",
+      "description": "Basic Title Menu Scene and Script",
+      "path": "Samples~/Title"
+    }
+  ]
 }
