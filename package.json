@@ -24,6 +24,11 @@
       "displayName": "Title Menu",
       "description": "Basic Title Menu Scene and Script",
       "path": "Samples~/Title"
+    },
+	{
+      "displayName": "Audiomixer",
+      "description": "Default Audiomixer setup",
+      "path": "Samples~/Audiomixer"
     }
   ]
 }
